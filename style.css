@@ -227,12 +227,14 @@ card-content {
     color: #F2E8CF;
     font-family: 'Inter', sans-serif;
     font-weight: bold;
+    margin: 0 0 5px 0;
 }
 
 .white-text-small {
     font-size:24px;
     color: #DBD0B5;
     font-family: 'Inter', sans-serif;
+    margin: 15px 0 0 0
 }
 
 ol li {
