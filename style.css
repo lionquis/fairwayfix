@@ -10,6 +10,10 @@ body::before {
     z-index: -1;
 }
 
+body {
+    background-color: #F2E8CF;
+}
+
 .logo {
     margin-left: 156px;
     margin-right: 918px;
@@ -33,4 +37,10 @@ h2 {
     text-align: center;
     font-size: 38px;
     font-weight: bold;
+}
+
+nav p {
+    color: #386641;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
 }
