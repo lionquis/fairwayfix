@@ -262,7 +262,7 @@ ol li {
     gap: 19px;
 }
 
-button {
+.whitebutton {
     background: #F2E8CF;
     color: #BC4749;
     width: 205px;
