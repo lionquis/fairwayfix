@@ -105,3 +105,8 @@ nav p {
 .memberships {
     margin-top: 135px;
 }
+
+ol li {
+    font-size:32px;
+    color: #386641;
+}
