@@ -256,6 +256,7 @@ ol li {
 }
 
 .bottomcontainer {
-    margin-left: 426px;
-    margin-right: 426px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
