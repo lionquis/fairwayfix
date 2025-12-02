@@ -59,18 +59,21 @@ nav p {
     height: 151px;
 }
 
-.jointheclub {
+button {
     background: #BC4749;
     color: #F2E8CF;
     width: 205px;
     height: 54px;
+    outline: none;
+    border: none;
     font-weight: bold;
     font-family: 'Inter', sans-serif;
+}
+
+.jointheclub {
     font-size: 20px;
     margin-top: 100px;
     border-radius: 10px;
-    outline: none;
-    border: none;
 }
 
 .jointheclub:hover {
