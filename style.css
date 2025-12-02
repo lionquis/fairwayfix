@@ -255,6 +255,6 @@ ol li {
     margin-right: 124px;
 }
 
-.bottombutton {
-    margin: auto;
+.bottomcontainer {
+    align-items: center;
 }
