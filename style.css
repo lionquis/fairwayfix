@@ -117,6 +117,7 @@ button {
 .bottomlist {
     margin-left: 254px;
     margin-right: 254px;
+    padding-bottom: 50px;
 }
 
 ul li {
