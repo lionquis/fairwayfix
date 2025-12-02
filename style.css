@@ -14,14 +14,6 @@ body {
     background-color: #F2E8CF;
 }
 
-.logo {
-    margin-left: 156px;
-    margin-right: 918px;
-    margin-top: 55px;
-    width: 226px;
-    height: 151px;
-}
-
 h1 {
     color: #386641;
     font-weight: bold;
@@ -48,4 +40,12 @@ nav p {
     font-weight: bold;
     font-family: 'Inter', sans-serif;
     font-size: 20px;
+}
+
+.logo {
+    margin-left: 156px;
+    margin-right: 121px;
+    margin-top: 55px;
+    width: 226px;
+    height: 151px;
 }
