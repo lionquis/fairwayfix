@@ -204,3 +204,7 @@ ul h4 {
 .card-item :last-child {
     margin-bottom: 0;
 }
+
+card-content {
+    flex-grow: 0;
+}
