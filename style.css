@@ -109,7 +109,7 @@ button {
 }
 
 .membershiptext {
-    margin-top: 50px;
+    margin-top: 25px;
     margin-left: 164px;
     margin-right: 164px;
 }
@@ -133,6 +133,8 @@ ul li {
     gap: 20px; 
     justify-content: center;
     align-items: center;
+    position: relative;
+    overflow: hidden;
 }
 
 .card-item {
