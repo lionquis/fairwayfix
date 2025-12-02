@@ -233,3 +233,11 @@ card-content {
     color: #DBD0B5;
     font-family: 'Inter', sans-serif;
 }
+
+ol li {
+    font-size:32px;
+    color: #386641;
+    font-family: 'Inter', sans-serif;
+    margin-left: 254px;
+    margin-right: 254px;
+}
