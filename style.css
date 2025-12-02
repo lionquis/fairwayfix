@@ -222,19 +222,24 @@ card-content {
     flex-grow: 0;
 }
 
+green-card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
 .white-text-big {
     font-size:32px;
     color: #F2E8CF;
     font-family: 'Inter', sans-serif;
     font-weight: bold;
-    margin: 0 0 5px 0;
 }
 
 .white-text-small {
     font-size:24px;
     color: #DBD0B5;
     font-family: 'Inter', sans-serif;
-    margin: 15px 0 0 0
+    margin-top: 20px;
 }
 
 ol li {
