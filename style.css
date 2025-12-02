@@ -166,7 +166,7 @@ ul h3 {
     font-family: 'Inter', sans-serif;
 }
 
-.card h3, .card p {
+.card h3, .card p, .green-card h3, .green-card p {
     margin: 0 0 10px 0
 }
 
