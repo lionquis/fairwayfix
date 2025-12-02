@@ -135,6 +135,7 @@ ul li {
     align-items: center;
     position: relative;
     overflow: hidden;
+    padding-bottom: 50px;
 }
 
 .card-item {
@@ -160,9 +161,13 @@ ul h3 {
 }
 
 .card-button {
-    margin-right: auto;
+    position: absolute;
+    bottom: 15px;
+    left: 20px;
 }
 
 ul h4 {
     margin-left: auto;
+    bottom: 15px;
+    left: 20px;
 }
