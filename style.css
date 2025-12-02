@@ -140,6 +140,7 @@ ul li {
     padding: 20px;
     width:460px;
     height:248px;
+    border-radius: 10px;
 }
 
 ul h3 {
