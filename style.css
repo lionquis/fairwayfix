@@ -52,15 +52,15 @@ nav p {
     height: 151px;
 }
 
-.redbutton {
+.jointheclub {
     background: #BC4749;
     color: #F2E8CF;
-    length: 205px;
+    length: 250px;
     height: 54px;
     font-weight: bold;
     font-family: 'Inter', sans-serif;
     font-size: 20px;
-    margin-top: 105px;
+    margin-top: 103px;
     border-radius: 10px;
     outline: none;
 }
