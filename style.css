@@ -52,12 +52,6 @@ nav p {
     height: 151px;
 }
 
-li {
-    color: #386641;
-    font-family: 'Inter', sans-serif;  
-    font-size: 32px;
-}
-
 .redbutton {
     background: #BC4749;
     color: #F2E8CF;
@@ -70,4 +64,11 @@ li {
 
 .squirrel {
     list-style-image: url('squirrel.png');
+}
+
+.squirrelli {
+    color: #386641;
+    font-family: 'Inter', sans-serif;  
+    font-size: 32px;
+    margin-left: 20px;
 }
