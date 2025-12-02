@@ -10,19 +10,6 @@ body::before {
     z-index: -1;
 }
 
-li::before {
-  content: "";
-  display: inline-block;
-  width: 20px;
-  height: 20px; 
-  background-image: url('squirrel.png'); 
-  background-size: contain; 
-  position: absolute; 
-  left: 0;
-  top: 50%; 
-  transform: translateY(-50%); 
-}
-
 body {
     background-color: #F2E8CF;
 }
