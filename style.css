@@ -10,6 +10,13 @@ body::before {
     z-index: -1;
 }
 
+.logo {
+    margin-left: 156px;
+    margin-right: 918px;
+    width: 226px;
+    height: 151px;
+}
+
 h1 {
     color: #386641;
     font-weight: bold;
