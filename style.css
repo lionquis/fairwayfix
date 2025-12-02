@@ -2,9 +2,18 @@ body {
     background: #F2E8CF;
 }
 
+h1 {
+    color: #386641;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+    margin-left: 162px;
+    margin-right: 465px;
+}
+
 h2 {
     color: #BC4749;
     font-family: 'Inter', sans-serif;
     text-align: center;
-    font-size: 38em;
+    font-size: 38px;
+    font-weight: bold;
 }
