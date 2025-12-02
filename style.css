@@ -225,7 +225,7 @@ card-content {
 green-card-content {
     display: flex;
     flex-direction: column;
-    gap: 3px;
+    gap: 1px;
 }
 
 .green-card, .white-text-big:first-child {
