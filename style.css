@@ -87,9 +87,14 @@ nav p {
 }
 
 .augusta {
-    background-image: url('augusta12.png');
-    background-position: 200px 200px;
-    background-repeat: no-repeat;
-    height:auto;
-    width:auto; 
+    position: relative;
 }
+
+.augusta-floating {
+    position: absolute;
+    top: 200px;
+    right: 200px;
+    z-index: 1;
+}
+
+
