@@ -158,3 +158,11 @@ ul h3 {
 .card p:last-child {
     margin-bottom: 0;
 }
+
+.card-button {
+    margin-right: auto;
+}
+
+ul h4 {
+    margin-left: auto;
+}
