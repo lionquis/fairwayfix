@@ -74,6 +74,11 @@ nav p {
     border: none;
 }
 
+.jointheclub:hover {
+    background-color: #A63F41;
+    box-shadow: 0px 4px 10px rgba (0, 0, 0, 0.26)
+}
+
 .squirrel {
     list-style-image: url('squirrel.png');
     margin-left: 156px;
@@ -92,7 +97,7 @@ nav p {
 
 .augusta-floating {
     position: absolute;
-    top: 30px;
+    top: -5px;
     right: 200px;
     z-index: 1;
 }
