@@ -150,3 +150,11 @@ ul h3 {
     color: #386641;
     font-family: 'Inter', sans-serif;
 }
+
+.card-item h3, .card-item p {
+    margin: 0 0 10px 0
+}
+
+.card p:last-child {
+    margin-bottom: 0;
+}
