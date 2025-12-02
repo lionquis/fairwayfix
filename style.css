@@ -157,6 +157,7 @@ ul li {
     border-radius: 10px;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
 
 ul h3 {
@@ -225,7 +226,7 @@ green-card-content {
     display: flex;
     flex-direction: column;
     gap: 3px;
-    margin-top: 30px;
+    padding-top: 30px;
 }
 
 .white-text-big {
