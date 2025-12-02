@@ -157,7 +157,6 @@ ul li {
     border-radius: 10px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
 }
 
 ul h3 {
