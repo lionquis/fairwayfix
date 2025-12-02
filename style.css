@@ -90,4 +90,6 @@ nav p {
     background-image: url('augusta12.png');
     background-position: 200px 200px;
     background-repeat: no-repeat;
+    height:auto;
+    width:auto; 
 }
