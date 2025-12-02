@@ -267,8 +267,8 @@ ol li {
     color: #BC4749;
     width: 205px;
     height: 54px;
-    outline: 2px;
-    outline-color: #BC4749;
+    border-radius: 2px;
+    border-color: #BC4749;
     font-weight: bold;
     font-family: 'Inter', sans-serif;
     border-radius: 10px;
