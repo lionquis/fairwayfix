@@ -67,3 +67,7 @@ li {
     font-family: 'Inter', sans-serif;
     font-size: 20px;
 }
+
+.squirrel {
+    list-style-image: url('squirrel.png');
+}
