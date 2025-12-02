@@ -111,6 +111,11 @@ nav p {
     margin-right: 164px;
 }
 
+.bottomlist {
+    margin-left: 254px;
+    margin-right: 254px;
+}
+
 ol li {
     font-size:32px;
     color: #386641;
