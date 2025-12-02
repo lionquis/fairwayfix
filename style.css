@@ -226,6 +226,7 @@ green-card-content {
     display: flex;
     flex-direction: column;
     gap: 3px;
+    padding-bottom:30px
 }
 
 .white-text-big {
