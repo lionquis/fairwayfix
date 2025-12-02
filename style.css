@@ -1,8 +1,8 @@
 body {
     background-image: url("top_banner.png");
     background-repeat: repeat-x;
-    background-attachment: fixed;
     background-position: top;
+    background-attachment: fixed;
 }
 
 h1 {
