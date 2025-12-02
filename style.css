@@ -1,11 +1,9 @@
 body {
     background-color: #F2E8CF;
-}
-
-.page-header {
     background-image: url("top_banner.png");
     background-repeat: no-repeat;
-    background-position: top center;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 h1 {
