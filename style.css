@@ -51,3 +51,19 @@ nav p {
     width: 226px;
     height: 151px;
 }
+
+li {
+    color: #386641;
+    font-family: 'Inter', sans-serif;  
+    font-size: 32px;
+}
+
+.redbutton {
+    background: #BC4749;
+    color: #F2E8CF;
+    length: 205px;
+    height: 54px;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
