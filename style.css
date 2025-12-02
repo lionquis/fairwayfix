@@ -60,7 +60,8 @@ nav p {
     font-weight: bold;
     font-family: 'Inter', sans-serif;
     font-size: 20px;
-    margin-top: 115px;
+    margin-top: 95px;
+    border-radius: 10px;
 }
 
 .squirrel {
