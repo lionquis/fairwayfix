@@ -130,7 +130,7 @@ ul li {
     padding: 0;
     display: flex;
     flex-wrap: wrap;
-    margin: 20px auto;
+    gap: 20px; 
     justify-content: center;
     align-items: center;
     position: relative;
@@ -144,9 +144,7 @@ ul li {
     width:460px;
     height:248px;
     border-radius: 10px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+
 }
 
 ul h3 {
@@ -189,5 +187,4 @@ ul li a {
 ul h4 {
     margin:0;
     font-weight: bold;
-    font-size: 38px;
 }
