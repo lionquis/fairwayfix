@@ -254,3 +254,7 @@ ol li {
     margin-left: 124px;
     margin-right: 124px;
 }
+
+.bottombutton {
+    display: flex;
+}
