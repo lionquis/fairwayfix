@@ -228,6 +228,10 @@ green-card-content {
     gap: 3px;
 }
 
+.green-card, .white-text-big:first-child {
+    margin-top: 30px
+}
+
 .white-text-big {
     font-size:32px;
     color: #F2E8CF;
