@@ -36,9 +36,6 @@ p {
     font-size: 32px;
     color: #386641;
     font-family: 'Inter', sans-serif;
-    margin-top: 74px;
-    margin-left: 164px;
-    margin-right: 164px;
 }
 
 nav {
@@ -106,6 +103,12 @@ nav p {
 
 .memberships {
     margin-top: 135px;
+}
+
+.membershiptext {
+    margin-top: 74px;
+    margin-left: 164px;
+    margin-right: 164px;
 }
 
 ol li {
