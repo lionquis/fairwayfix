@@ -188,3 +188,7 @@ ul h4 {
     margin:0;
     font-weight: bold;
 }
+
+.card-footer {
+    justify-content: space-between;
+}
