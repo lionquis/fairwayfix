@@ -55,7 +55,7 @@ nav p {
 .jointheclub {
     background: #BC4749;
     color: #F2E8CF;
-    length: 250px;
+    width: 205px;
     height: 54px;
     font-weight: bold;
     font-family: 'Inter', sans-serif;
@@ -63,6 +63,7 @@ nav p {
     margin-top: 100px;
     border-radius: 10px;
     outline: none;
+    border: none;
 }
 
 .squirrel {
