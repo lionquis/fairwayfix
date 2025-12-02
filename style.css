@@ -13,6 +13,7 @@ body::before {
 .logo {
     margin-left: 156px;
     margin-right: 918px;
+    margin-top: 55px;
     width: 226px;
     height: 151px;
 }
