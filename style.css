@@ -99,7 +99,6 @@ nav p {
 .augusta-floating {
     position: absolute;
     top: 150px;
-    left: 50px;
     z-index: 1;
 }
 
