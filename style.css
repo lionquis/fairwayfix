@@ -39,9 +39,13 @@ h2 {
     font-weight: bold;
 }
 
+nav {
+    display: flex;    
+}
+
 nav p {
     color: #386641;
+    font-weight: bold;
     font-family: 'Inter', sans-serif;
     font-size: 20px;
-    float: left;
 }
