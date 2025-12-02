@@ -166,6 +166,14 @@ ul h3 {
     left: 20px;
 }
 
-ul h4 {
-    margin-left: auto;
+ul li a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none; 
+    background-color: #BC4749; 
+    color: #F2E8CF;
+    border-radius: 10px;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
 }
