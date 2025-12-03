@@ -263,13 +263,12 @@ ol li {
 }
 
 .whitebutton {
-    background: #F2E8CF;
-    color: #BC4749;
-    width: 205px;
-    height: 54px;
-    outline: 2px #BC4749;
-    font-weight: bold;
-    font-family: 'Inter', sans-serif;
-    border-radius: 10px;
-    font-size: 20px;
+  border: 2px solid #BC4749;
+  background-color: #F2E8CF;
+  color: #BC4749;
+  border-radius: 10px;
+  width: 205px;
+  height: 54px;
+  font-weight: bold;
+  font-family: 'Inter', sans-serif;
 }
