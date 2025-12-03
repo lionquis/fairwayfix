@@ -76,7 +76,7 @@ button {
     margin-top: 100px;
 }
 
-.jointheclub:hover, ul li a, .bottomjointheclub:hover {
+.jointheclub:hover, .cardbutton, .bottomjointheclub:hover {
     background-color: #A63F41;
     box-shadow: 4px 8px 12px rgba (0, 0, 0, 0.26)
 }
