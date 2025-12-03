@@ -76,7 +76,7 @@ button {
     margin-top: 100px;
 }
 
-.jointheclub:hover, ul li a:hover {
+.jointheclub:hover, ul li a, .bottomjointheclub:hover {
     background-color: #A63F41;
     box-shadow: 4px 8px 12px rgba (0, 0, 0, 0.26)
 }
@@ -263,7 +263,7 @@ ol li {
 }
 
 .whitebutton {
-  border: 2px solid #BC4749;
+  border: 4px solid #BC4749;
   background-color: #F2E8CF;
   color: #BC4749;
   border-radius: 10px;
@@ -271,4 +271,9 @@ ol li {
   height: 54px;
   font-weight: bold;
   font-family: 'Inter', sans-serif;
+}
+
+.whitebutton:hover {
+    background-color: #DBD0B5;
+    box-shadow: 4px 8px 12px rgba (0, 0, 0, 0.26)
 }
